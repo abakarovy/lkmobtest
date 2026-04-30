@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "flytech-24f17",
+          "appId": "1:173322126082:android:226bbe07afe1f695c5381b",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "flytech-24f17",
+          "configurations": {
+            "android": "1:173322126082:android:226bbe07afe1f695c5381b",
+            "ios": "1:173322126082:ios:94db0210069de706c5381b",
+            "macos": "1:173322126082:ios:94db0210069de706c5381b",
+            "web": "1:173322126082:web:109899280bf4a517c5381b",
+            "windows": "1:173322126082:web:edd0fb946a06132cc5381b"
+          }
+        }
+      }
+    }
+  }
+}

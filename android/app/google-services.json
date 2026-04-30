@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173322126082",
+    "project_id": "flytech-24f17",
+    "storage_bucket": "flytech-24f17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173322126082:android:226bbe07afe1f695c5381b",
+        "android_client_info": {
+          "package_name": "com.batyrov.flytech.lkmobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASc8WQiXXOZ5FFG0AOUBslzNsyEIgJUCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
